@@ -1,0 +1,28 @@
+Multi Threading:
+
+We can work with multiple tasks at the same time like typing and playing a song at a same time
+it is called multitasking.
+Task = Process , if we are typing a doc and making a spelling mistake parallely it can show what we have typed and show the mistake we made Ms word is a process and 
+
+Typing is a sub process, Spell Check is another sub process, These sub processes are called as threads.
+
+Thread - unit of process.
+
+By default in every java code we have atleast one thread--> main
+
+Why we need thread?
+	we are having array containing int from 1 to 500, we are required to multiply each by 2, It may take 8 seconds to do the work in java (by code). it is one thread. if we want to make it fast
+we need to create more threads for example another 3 totally 4 threads 
+(We are using quad (4) core machine). Now work splitted and running parallely and  it takes 2 seconds only. This is multi threading
+
+In android: we use asynctask() 
+We are using amazon app in that sending a request it is a thread and getting response is another thread. If we use only one thread it will take more time to complete task. 
+
+In web apps: 
+when 5 clients sending request to servlets it will create 5 threads of same servlet.
+
+ 
+
+
+
+

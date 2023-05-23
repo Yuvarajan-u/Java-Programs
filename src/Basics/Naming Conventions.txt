@@ -1,0 +1,25 @@
+First letter should be Uppercase
+
+Class: Noun 
+eg: student, person, computer, HashMap
+
+if it has more than one word we should do camel casing rule=> MyJavaProgram
+
+First letter should be lowercase
+
+if it has more than one word we should do like 
+=> buttonClicked using uppercase for second word first letter
+
+Method: Verb
+eg: actionPerformed,run,Print, Calculate,Compute
+
+Variable: It should look related to the data we are storing
+eg: student name => String sname="yuva";
+
+Interface: Adjective
+eg: Runable, Readable, Remote
+
+Everything Uppercase
+
+Constant: (UPPERCASE)
+eg: PI, DENSITY, MAX_VAL, MIN_VAL

@@ -1,0 +1,19 @@
+Package name should be unique.
+
+Package name should be mirror of your domain
+for example:
+domain: google.com
+package name: com.google
+
+No one should use our package name 
+
+If we are having a package like:   com.yuva.test
+
+Now i need to access all class files in test folder
+
+so i should use like com.yuva.test.*; -> it will fetch all classes from test class
+
+It will not go inside folders it can access only files
+
+if we need we need to be clear while importing
+

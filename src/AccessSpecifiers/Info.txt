@@ -1,0 +1,4 @@
+Private     Default     Public      Protected
+Specific    Specific    Any class   Subsiding
+class       Package     or Package  Classes
+            Private                 and same package
